@@ -8,3 +8,9 @@ I might add some Lorem Ipsum if i would like. But to be honest, i don't want. To
 * Calm in developing
 * Precise in analysing
 * Hiking brings health
+
+As Sebastian Pufpaff said:
+
+> Manchmal kann man ruhig mal 
+> die Klappe halten.
+
