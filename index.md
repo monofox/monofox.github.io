@@ -14,3 +14,5 @@ As Sebastian Pufpaff said:
 > Manchmal kann man ruhig mal 
 > die Klappe halten.
 
+<img src="https://avatarfiles.alphacoders.com/126/126136.jpg" />
+
